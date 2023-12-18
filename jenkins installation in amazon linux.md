@@ -2,11 +2,11 @@ Create a .sh file and paste all below command in it and save it.
 
 ##Install extra packege enterprices linux using below command##
       
-       amazon-linux-extras install epel --
+       amazon-linux-extras install epel 
 
 ##Java install command##
 
-    amazon-linux-extras install java-openjdk11--
+    amazon-linux-extras install java-openjdk11
 
 ##Jenkins repo add. ##
 
